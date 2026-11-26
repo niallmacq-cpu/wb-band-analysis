@@ -11,11 +11,11 @@ abstract: >-
 type: software
 authors:
   # TODO: replace with your details. Add one entry per contributor.
-  - family-names: "YOUR-FAMILY-NAME"
+  - family-names: "Macquiade"
     given-names: "Niall"
-    affiliation: "Glasgow Caledonian University"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-repository-code: "https://github.com/YOUR-USERNAME/wb-band-analysis"
+    affiliation: "University of Leeds"
+    orcid: "https://orcid.org/0000-0001-9026-0073"
+repository-code: "https://github.com/niallmacq-cpu/wb-band-analysis"
 license: GPL-3.0-or-later
 version: "0.1.0"
 date-released: "2026-11-26"
