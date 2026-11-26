@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Written by the app while you work: never commit these
+wb_analysis_log.txt*
+*.rois.json
+*.rois.json.tmp
+*.bak
+
+# Blot images (keep real data out of the repository)
+*.tif
+*.tiff
+
+# Test output and the synthetic blots, which tests/data/make_blot.py regenerates
+tests/out/
+tests/data/*.png

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Western Blot Band Analysis"
+abstract: >-
+  Desktop application for quantifying Western blot bands: semi-automatic
+  band detection, local background correction (profile baseline,
+  above/below strips or ring), lane-by-lane normalisation of a target
+  protein to a loading control, and auditable exports (results CSV,
+  intensity profiles, annotated images, per-image ROI files and an
+  activity log).
+type: software
+authors:
+  # TODO: replace with your details. Add one entry per contributor.
+  - family-names: "YOUR-FAMILY-NAME"
+    given-names: "Niall"
+    affiliation: "Glasgow Caledonian University"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/YOUR-USERNAME/wb-band-analysis"
+license: GPL-3.0-or-later
+version: "0.1.0"
+date-released: "2026-11-26"
+keywords:
+  - Western blot
+  - densitometry
+  - image analysis
+  - protein quantification
+  - PyQt6
+# After the first Zenodo release, add its DOI:
+# doi: 10.5281/zenodo.XXXXXXX
